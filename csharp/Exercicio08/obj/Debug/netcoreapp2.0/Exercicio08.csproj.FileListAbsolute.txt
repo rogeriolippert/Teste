@@ -1,0 +1,10 @@
+C:\Users\USER\Teste\csharp\Exercicio08\obj\Debug\netcoreapp2.0\Exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio08\obj\Debug\netcoreapp2.0\Exercicio08.AssemblyInfoInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio08\obj\Debug\netcoreapp2.0\Exercicio08.AssemblyInfo.cs
+C:\Users\USER\Teste\csharp\Exercicio08\bin\Debug\netcoreapp2.0\Exercicio08.deps.json
+C:\Users\USER\Teste\csharp\Exercicio08\bin\Debug\netcoreapp2.0\Exercicio08.runtimeconfig.json
+C:\Users\USER\Teste\csharp\Exercicio08\bin\Debug\netcoreapp2.0\Exercicio08.runtimeconfig.dev.json
+C:\Users\USER\Teste\csharp\Exercicio08\bin\Debug\netcoreapp2.0\Exercicio08.dll
+C:\Users\USER\Teste\csharp\Exercicio08\bin\Debug\netcoreapp2.0\Exercicio08.pdb
+C:\Users\USER\Teste\csharp\Exercicio08\obj\Debug\netcoreapp2.0\Exercicio08.dll
+C:\Users\USER\Teste\csharp\Exercicio08\obj\Debug\netcoreapp2.0\Exercicio08.pdb

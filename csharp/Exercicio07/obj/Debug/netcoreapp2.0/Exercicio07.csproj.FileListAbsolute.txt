@@ -1,0 +1,10 @@
+C:\Users\USER\Teste\csharp\Exercicio07\obj\Debug\netcoreapp2.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio07\obj\Debug\netcoreapp2.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio07\obj\Debug\netcoreapp2.0\Exercicio07.AssemblyInfo.cs
+C:\Users\USER\Teste\csharp\Exercicio07\bin\Debug\netcoreapp2.0\Exercicio07.deps.json
+C:\Users\USER\Teste\csharp\Exercicio07\bin\Debug\netcoreapp2.0\Exercicio07.runtimeconfig.json
+C:\Users\USER\Teste\csharp\Exercicio07\bin\Debug\netcoreapp2.0\Exercicio07.runtimeconfig.dev.json
+C:\Users\USER\Teste\csharp\Exercicio07\bin\Debug\netcoreapp2.0\Exercicio07.dll
+C:\Users\USER\Teste\csharp\Exercicio07\bin\Debug\netcoreapp2.0\Exercicio07.pdb
+C:\Users\USER\Teste\csharp\Exercicio07\obj\Debug\netcoreapp2.0\Exercicio07.dll
+C:\Users\USER\Teste\csharp\Exercicio07\obj\Debug\netcoreapp2.0\Exercicio07.pdb

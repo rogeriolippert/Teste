@@ -1,0 +1,10 @@
+C:\Users\USER\Teste\csharp\Exercicio15\obj\Debug\netcoreapp2.0\Exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio15\obj\Debug\netcoreapp2.0\Exercicio15.AssemblyInfoInputs.cache
+C:\Users\USER\Teste\csharp\Exercicio15\obj\Debug\netcoreapp2.0\Exercicio15.AssemblyInfo.cs
+C:\Users\USER\Teste\csharp\Exercicio15\bin\Debug\netcoreapp2.0\Exercicio15.deps.json
+C:\Users\USER\Teste\csharp\Exercicio15\bin\Debug\netcoreapp2.0\Exercicio15.runtimeconfig.json
+C:\Users\USER\Teste\csharp\Exercicio15\bin\Debug\netcoreapp2.0\Exercicio15.runtimeconfig.dev.json
+C:\Users\USER\Teste\csharp\Exercicio15\bin\Debug\netcoreapp2.0\Exercicio15.dll
+C:\Users\USER\Teste\csharp\Exercicio15\bin\Debug\netcoreapp2.0\Exercicio15.pdb
+C:\Users\USER\Teste\csharp\Exercicio15\obj\Debug\netcoreapp2.0\Exercicio15.dll
+C:\Users\USER\Teste\csharp\Exercicio15\obj\Debug\netcoreapp2.0\Exercicio15.pdb

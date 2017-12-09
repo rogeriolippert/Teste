@@ -1,0 +1,28 @@
+
+01. Imprimir a mensagem: “É PRECISO FAZER TODOS OS EXERCÍCIOS PARA APRENDER”/
+#
+02. Imprimir seu nome./
+#
+03. Criar um algoritmo que imprima o produto(multiplicação) entre 28 e 43./
+#
+04. Criar um algoritmo que imprima a média aritmética entre os números 8, 9 e 7./
+#
+05. Ler um número inteiro e imprimi-lo./
+#
+06. Ler dois números inteiros e imprimi-los./
+#
+07. Ler um número inteiro e imprimir seu sucessor e seu antecessor./
+#
+08. Ler nome, endereço e telefone e imprimi-los./
+#
+09. Ler dois números inteiros e imprimir a soma. Antes do resultado, deverá aparecer a mensagem: Soma./
+#
+10. Ler dois números inteiros e imprimir o produto./
+#
+11. Ler um número real(numero com vírgula) e imprimir a terça parte deste número./
+#
+12. Entrar com dois números reais e imprimir a média aritmética com a mensagem “Média” antes do resultado./
+#
+13. Fazer um algoritmo que possa entrar com o saldo de uma aplicação e imprima o novo saldo, considerando o reajuste de 1%./
+#
+14. Entrar com as notas da PR1 e PR2 e imprimir a média final./
