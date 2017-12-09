@@ -1,3 +1,0 @@
-C:\Users\USER\tabela-brasileirao\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
-C:\Users\USER\tabela-brasileirao\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
-C:\Users\USER\tabela-brasileirao\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
