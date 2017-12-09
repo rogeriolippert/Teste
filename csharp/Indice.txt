@@ -26,3 +26,13 @@
 13. Fazer um algoritmo que possa entrar com o saldo de uma aplicação e imprima o novo saldo, considerando o reajuste de 1%./
 #
 14. Entrar com as notas da PR1 e PR2 e imprimir a média final./
+#
+15. Entrar com um nome e imprimir:
+
+# Todo o nome:
+# Primeiro Caractere:
+# Ultimo Caractere:
+# Do Primeiro ate o Terceiro:
+# Quarto Caractere:
+# Todos menos o Primeiro:
+# Os Dois Últimos:
