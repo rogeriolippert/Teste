@@ -1,0 +1,4 @@
+##Ignore as pastas
+bin/
+build/
+obj/
